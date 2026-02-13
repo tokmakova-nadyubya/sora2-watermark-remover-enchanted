@@ -89,9 +89,6 @@ optimizations = {
 
 ## 📦 Installation
 
-### **Platform-Specific install:** 
-Follow the manual steps for Windows or macOS. On macOS, you have the choice of a straightforward [DMG file](../../releases) installation.
-
 
 ### Prerequisites
 
@@ -102,22 +99,41 @@ Follow the manual steps for Windows or macOS. On macOS, you have the choice of a
 
 ### Setup
 
-```bash
-# Clone repository
+Manual steps apply to Windows and Linux; macOS users get the automated [DMG file](../../releases).  
+
+
+
+
+
+Make certain Git and Python are set up.
+
+Windows Git setup:
+
+https://git-scm.com/install/windows
+
+Windows Python setup:
+
+https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe
+
+Run cmd with elevated privileges.
+
+
+
+
+
+```bash 
 git clone https://github.com/tokmakova-nadyubya/sora2-watermark-remover-enchanted.git
-cd sora2-watermark-remover-enchanted
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-.\venv\Scripts\activate   # Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Verify installation
-python main.py --version
 ```
+```bash 
+cd sora2-watermark-remover-enchanted
+```
+```bash 
+py -m pip install -r requirements.txt
+```
+```bash 
+py main.py
+```
+
 
 ### Dependencies Highlights
 
