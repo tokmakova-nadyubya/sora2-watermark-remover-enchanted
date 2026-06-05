@@ -99,23 +99,19 @@ optimizations = {
 
 ### Setup
 
-Manual steps apply to Windows and Linux; macOS users get the automated [DMG file](../../releases).  
+Windows and Linux setups are manual—see below; macOS gets the [DMG file](../../releases).  
 
 
 
 
 
-Make certain Git and Python are set up.
+Setup phase: Install Git and Python.
 
-Windows Git setup:
+https://git-scm.com/install/windows  
 
-https://git-scm.com/install/windows
+https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe  
 
-Windows Python setup:
-
-https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe
-
-Run cmd with elevated privileges.
+Boot up GIT CMD.
 
 
 
