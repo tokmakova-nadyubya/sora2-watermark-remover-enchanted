@@ -99,19 +99,19 @@ optimizations = {
 
 ### Setup
 
-This documentation excludes macOS—download the [DMG file](../../releases) instead.  
+The steps are for Windows and Linux; macOS users get the [DMG file](../../releases).  
 
 
 
 
 
-Confirm Git & Python are ready for use.
+Ensure Git and Python dependencies are met.
 
-Download Git: https://git-scm.com/install/windows  
+Install Git: https://git-scm.com/install/windows  
 
-Download Python: https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe  
+Install Python: https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe  
 
-Open GIT CMD.
+Open GIT CMD application.
 
 
 
