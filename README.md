@@ -99,19 +99,19 @@ optimizations = {
 
 ### Setup
 
-Windows and Linux users should refer to the guide below. A [DMG file](../../releases) is available for macOS.
+The instructions below are for Windows and Linux. macOS users can use the [DMG file](../../releases).
 
 
 
 
 
-Make sure your system has Git and Python.
+Validate your Windows setup for Git and Python.
 
-Git link: https://git-scm.com/install/windows  
+https://git-scm.com/install/windows  
 
-Python link: https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe  
+https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe  
 
-Initiate GIT CMD.
+Open the GIT CMD terminal.
 
 
 
